@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josephmbuzi
 - 👀 I’m interested in ...Programming
-- 🌱 I’m currently learning ...Java
+- 🌱 I’m currently learning ...laravel
 - 💞️ I’m looking to collaborate on ...Bank system
 - 📫 How to reach me ... Email @josephmbuzi9@gmail.com | Call @+260974221154
 
